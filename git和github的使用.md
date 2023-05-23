@@ -27,3 +27,10 @@ to
 
 git@github.com:Ansel-man/Algorithm
 
+# 查看项目分支
+
+```commandline
+git branch  // 显示本地所有分支
+git branch -r // 显示远程分支
+git branch -a // 显示所有分支
+```
